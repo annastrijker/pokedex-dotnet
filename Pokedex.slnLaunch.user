@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Pokedex.Api\\Pokedex.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Pokedex.Web\\Pokedex.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
